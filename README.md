@@ -37,7 +37,7 @@ The lumbar sensor provides three acceleration axes: vertical (`avert`), mediolat
 
 ## Usage
 
-1. Place raw `.mat` files in a `data40/` folder at the project root.
+1. Place raw `.mat` files in a `data40/` folder at the project root. Sample data of 1 female and one male are provided.
 2. Run the pipeline:
 
 ```bash
