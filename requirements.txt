@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+plotly
+ptitprince
+seaborn
+statsmodels
+EntropyHub
